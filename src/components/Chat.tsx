@@ -1,6 +1,5 @@
 "use client";
 
-import { useChat } from "ai/react";
 import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
 import { Button } from "./ui/button";
 import {
